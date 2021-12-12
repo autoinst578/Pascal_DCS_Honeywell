@@ -34,4 +34,5 @@ begin
 		Orn[i] := Rng[i];
 		Rst[i] := 0;
 	    end;
+	
 end;
