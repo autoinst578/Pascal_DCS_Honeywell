@@ -1,0 +1,1 @@
+if (x=0) and (a = 2) then 
