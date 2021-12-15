@@ -1,0 +1,2 @@
+TYPE
+	Holidaymonth=Jun..Aug;
